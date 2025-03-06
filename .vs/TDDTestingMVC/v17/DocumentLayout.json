@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\reports\\extendsreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\reports\\extendsreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\stepdefinitions\\clientecrudstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\clientecrudstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\features\\clientecrud.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\clientecrud.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\features\\pedidocrud.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\pedidocrud.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\stepdefinitions\\circulostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\circulostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\features\\register.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\register.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\leona\\source\\repos\\tddtestingmvc\\reqnrolltestproject\\stepdefinitions\\registerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E465C2-FDD9-42C6-B4EC-E95769CDE9DD}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\registerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\RegisterStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\RegisterStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\RegisterStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\RegisterStepDefinitions.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:21:08.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.feature",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\Register.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\Register.feature",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\Register.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\Register.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-25T17:32:48.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.feature",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\login.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\login.feature",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\login.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-25T16:22:15.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:12.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:29:42.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoCrud.feature",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\PedidoCrud.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\PedidoCrud.feature",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\PedidoCrud.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\PedidoCrud.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-27T17:39:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CirculoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:56:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtendsReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Reports\\ExtendsReportManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Reports\\ExtendsReportManager.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Reports\\ExtendsReportManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Reports\\ExtendsReportManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:44:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteCrudStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\ClienteCrudStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\ClienteCrudStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\ClienteCrudStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\ClienteCrudStepDefinitions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:51:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteCrud.feature",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\ClienteCrud.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\ClienteCrud.feature",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject\\Features\\ClienteCrud.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\ClienteCrud.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-27T17:04:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
